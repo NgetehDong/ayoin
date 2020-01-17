@@ -18,6 +18,6 @@ int main(){
   
   cout<<"18. Muhamad Ismail";
   cout<<"19. Muhamad Yunus"<<endl;
-  cout<<"Ahmad Akbar Mubarak"<<endl;
+  cout<<"20. Ahmad Akbar Mubarak"<<endl;
 
 }
