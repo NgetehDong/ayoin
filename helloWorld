@@ -16,6 +16,8 @@ int main(){
   cout<<"14.Andika Alifian/n";
   cout<<"14. Farhan Ma'arif Lubis";
   
+  cout<<"16. Muhammad Agus Waludin"<<endl;
+  
   cout<<"18. Muhamad Ismail";
   cout<<"19. Muhamad Yunus"<<endl;
   cout<<"02. Ahmad Akbar Mubarak"<<endl;
