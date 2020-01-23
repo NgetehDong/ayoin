@@ -12,6 +12,7 @@ int main(){
   cout<<"Muhamad Rafli Abdillah";
    
   cout<<"5. Ahmad Fauzan"<<endl;
+  cout<<"6. ahmad Nurfahri<<endl;
   cout<<"12. Cece sopian"<<endl;
   cout<<"14.Andika Alifian/n";
   cout<<"14. Farhan Ma'arif Lubis";
