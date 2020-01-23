@@ -23,6 +23,10 @@ int main(){
   cout<<"19. Muhamad Yunus"<<endl;
   cout<<"02. Ahmad Akbar Mubarak"<<endl;
   cout<<"20. Muhammad Amien Ramdhani"<<endl;
+  
+  cout<<"23. Muhammad Maulana"<<endl;
+  
+  
   cout<<"25. Muhammad Subarja"<<endl;
 
 }
