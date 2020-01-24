@@ -23,8 +23,4 @@ int main(){
   cout<<"23. Muhammad Maulana"<<endl;
   cout<<"24.Muhamad Rafli Abdillah"<<endl;
   cout<<"25. Muhammad Subarja"<<endl;
-  
-  
-  
-
 }
