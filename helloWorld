@@ -10,7 +10,7 @@ int main(){
   cout<<"Bobi Mokodompit"<<endl;
   cout<<"Dhadi Isriansyah"<<endl;
   cout<<"Muhamad Rafli Abdillah";
-  cout<<"Ahmad Husain"<<endl;
+   
   cout<<"5. Ahmad Fauzan"<<endl;
   cout<<"6. ahmad Nurfahri<<endl;
   cout<<"12. Cece sopian"<<endl;
@@ -19,6 +19,7 @@ int main(){
   cout<<"15. Ilham Jaya Pratama"<<endl;
 
   cout<<"16. Muhammad Agus Waludin"<<endl;
+  cout<<"17. Mochamad Abdul Aziz Ismail"<<endl;
   
   cout<<"18. Muhamad Ismail";
   cout<<"19. Muhamad Yunus"<<endl;
