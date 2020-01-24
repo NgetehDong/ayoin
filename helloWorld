@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 
 
-
+  cout<<"3.Ahmad Dulloh"<<endl;
   cout<<"7. Akbar Riyadi"<<endl;
   cout<<"13.aldy prayogo"<<endl;
   cout<<"Bobi Mokodompit"<<endl;
@@ -31,7 +31,7 @@ int main(){
   
   
   cout<<"25. Muhammad Subarja"<<endl;
-  cout<<"3.Ahmad Dulloh"<<endl;
+  
   
   
 
