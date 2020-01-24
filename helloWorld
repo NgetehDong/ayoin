@@ -14,7 +14,7 @@ int main(){
   cout<<"6. Ahmad Nurfahri<<endl;
   cout<<"8. Akbar Riyadi"<<endl;
   cout<<"8. Akhmad Lylana<<endl;
-  cout<<"9. Aldi Prayogo"<<endl;
+  cout<<"9. Aldy Prayogo"<<endl;
   cout<<"10. Andika Alifian"<<endl;
   cout<<"12. Cece sopian"<<endl;
   cout<<"14. Farhan Ma'arif Lubis"<<endl;
