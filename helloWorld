@@ -3,17 +3,12 @@ using namespace std;
 
 int main(){
 
-
-  
-  
-  cout<<"Bobi Mokodompit"<<endl;
-  
   cout<<"2. Ahmad Akbar Mubarak"<<endl;
   cout<<"3.Ahmad Dulloh"<<endl;
   cout<<"4. Ahmad Fauzan"<<endl;
   cout<<"5. Ahmad Husain"<<endl;
-  cout<<"6. ahmad Nurfahri<<endl;
-  cout<<"7. Akbar Riyadi"<<endl;
+  cout<<"6. Ahmad Nurfahri<<endl;
+  cout<<"8. Akbar Riyadi"<<endl;
   cout<<"8. Akhmad Lylana<<endl;
   cout<<"9.aldy prayogo"<<endl;
   cout<<"10. Andika Alifian/n";
@@ -23,7 +18,7 @@ int main(){
   cout<<"15. Ilham Jaya Pratama"<<endl;
   cout<<"16. Muhammad Agus Waludin"<<endl;
   cout<<"17. Mochamad Abdul Aziz Ismail"<<endl;
-  cout<<"18. Muhamad Ismail";
+  cout<<"18. Muhamad Ismail"<<endl;
   cout<<"19. Muhamad Yunus"<<endl;
   cout<<"20. Muhammad Amien Ramdhani"<<endl;
   cout<<"23. Muhammad Maulana"<<endl;
