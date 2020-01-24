@@ -8,7 +8,7 @@ int main(){
   
   cout<<"Bobi Mokodompit"<<endl;
   cout<<"Dhadi Isriansyah"<<endl;
-  cout<<"02. Ahmad Akbar Mubarak"<<endl;
+  cout<<"2. Ahmad Akbar Mubarak"<<endl;
   cout<<"3.Ahmad Dulloh"<<endl;
   cout<<"4. Ahmad Fauzan"<<endl;
   cout<<"5. Ahmad Husain"<<endl;
@@ -18,20 +18,14 @@ int main(){
   cout<<"9.aldy prayogo"<<endl;
   cout<<"10. Andika Alifian/n";
   cout<<"12. Cece sopian"<<endl;
-  
   cout<<"14. Farhan Ma'arif Lubis";
   cout<<"15. Ilham Jaya Pratama"<<endl;
-
   cout<<"16. Muhammad Agus Waludin"<<endl;
   cout<<"17. Mochamad Abdul Aziz Ismail"<<endl;
-  
   cout<<"18. Muhamad Ismail";
   cout<<"19. Muhamad Yunus"<<endl;
-  
   cout<<"20. Muhammad Amien Ramdhani"<<endl;
-  
   cout<<"23. Muhammad Maulana"<<endl;
-  
   cout<<"24.Muhamad Rafli Abdillah"<<endl;
   cout<<"25. Muhammad Subarja"<<endl;
   
