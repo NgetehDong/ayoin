@@ -4,16 +4,17 @@ using namespace std;
 int main(){
 
 
+
+  
   cout<<"3.Ahmad Dulloh"<<endl;
-  cout<<"7. Akbar Riyadi"<<endl;
   cout<<"13.aldy prayogo"<<endl;
   cout<<"Bobi Mokodompit"<<endl;
   cout<<"Dhadi Isriansyah"<<endl;
   cout<<"Muhamad Rafli Abdillah";
    
   cout<<"4. Ahmad Fauzan"<<endl;
-  cout<<"5. Ahmad Husain"<<endl;
   cout<<"6. ahmad Nurfahri<<endl;
+  cout<<"7. Akbar Riyadi"<<endl;
   cout<<"8. Akhmad Lylana<<endl;
   cout<<"12. Cece sopian"<<endl;
   cout<<"14.Andika Alifian/n";
