@@ -5,7 +5,7 @@ int main(){
 
 
 
-
+  cout<<"7. Akbar Riyadi"<<endl;
   cout<<"13.aldy prayogo"<<endl;
   cout<<"Bobi Mokodompit"<<endl;
   cout<<"Dhadi Isriansyah"<<endl;
