@@ -6,7 +6,6 @@ int main(){
 
   cout<<"3.Ahmad Dulloh"<<endl;
   cout<<"7. Akbar Riyadi"<<endl;
-  cout<<"Bobi Mokodompit"<<endl;
   cout<<"Dhadi Isriansyah"<<endl;
    
   cout<<"4. Ahmad Fauzan"<<endl;
@@ -15,6 +14,7 @@ int main(){
   cout<<"8. Akhmad Lylana<<endl;
   cout<<"9.aldy prayogo"<<endl;
   cout<<"10. Andika Alifian/n";
+  cout<<"11. Bobi Prabowo Mokodompit"<<endl;
   cout<<"12. Cece sopian"<<endl;
   
   cout<<"14. Farhan Ma'arif Lubis";
