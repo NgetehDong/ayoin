@@ -4,12 +4,12 @@ using namespace std;
 int main(){
 
 
-  cout<<"3.Ahmad Dulloh"<<endl;
+
   cout<<"7. Akbar Riyadi"<<endl;
   cout<<"13.aldy prayogo"<<endl;
   cout<<"Bobi Mokodompit"<<endl;
   cout<<"Dhadi Isriansyah"<<endl;
-  cout<<"Muhamad Rafli Abdillah";
+  cout<<"24.Muhamad Rafli Abdillah";
    
   cout<<"4. Ahmad Fauzan"<<endl;
   cout<<"6. ahmad Nurfahri<<endl;
@@ -31,7 +31,7 @@ int main(){
   
   
   cout<<"25. Muhammad Subarja"<<endl;
-  
+  cout<<"3.Ahmad Dulloh"<<endl;
   
   
 
